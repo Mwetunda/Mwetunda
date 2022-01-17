@@ -1,3 +1,4 @@
+[!Mwetunda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwetunda&show_icons=true)
 - 👋 Hi, I'm Manuel Mwetunda;
 - 👀 my interest is backend development in .NET environment with C#
 - 🌱 I currently develop Web APIs with the framework Asp.net Web API, EF, WinForms, SQL Server and I am learning Xamarin.Forms and delving into Asp.net MVC.
@@ -9,5 +10,3 @@ Mwetunda/Mwetunda is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwetunda&langs_count=5&theme=tokyonight)]()
-
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwetunda&show_icons=true)
