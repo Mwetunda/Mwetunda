@@ -1,4 +1,4 @@
-[!Mwetunda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwetunda&show_icons=true)
+!!Mwetunda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwetunda&show_icons=true)
 - 👋 Hi, I'm Manuel Mwetunda;
 - 👀 my interest is backend development in .NET environment with C#
 - 🌱 I currently develop Web APIs with the framework Asp.net Web API, EF, WinForms, SQL Server and I am learning Xamarin.Forms and delving into Asp.net MVC.
